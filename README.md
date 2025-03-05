@@ -93,6 +93,16 @@ The modular architecture makes it easy to extend the system with new capabilitie
 2. Implement additional command types in `agent.py`
 3. Create custom endpoints in the API server
 
+## Research Foundation
+
+This implementation is based on research from the paper:
+
+**A Framework and Benchmark for Deep Learning-Based Cooperative AI Agents**  
+- Authors: Junxiao Song, Xuming Hu, Wenbo Guo, Zheng Li, Fan Yang, Dongkuan Xu, Yongfeng Zhang, Heng Ji, Jiliang Tang and Xia Hu
+- [arXiv:2412.12140v1](https://arxiv.org/abs/2412.12140v1)
+
+The paper introduces frameworks for developing and benchmarking AI agent systems that can collaborate and perform complex tasks through natural language interaction.
+
 ## License
 
 MIT
