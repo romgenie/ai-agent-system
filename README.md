@@ -97,7 +97,7 @@ The modular architecture makes it easy to extend the system with new capabilitie
 
 This implementation is based on research from the paper:
 
-**A Framework and Benchmark for Deep Learning-Based Cooperative AI Agents**  
+**Frontier AI systems have surpassed the self-replicating red line**  
 - Authors: Junxiao Song, Xuming Hu, Wenbo Guo, Zheng Li, Fan Yang, Dongkuan Xu, Yongfeng Zhang, Heng Ji, Jiliang Tang and Xia Hu
 - [arXiv:2412.12140v1](https://arxiv.org/abs/2412.12140v1)
 
